@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
+    "supervisor": "^0.12.0",
     "yargs": "^17.7.2"
   }
 }
